@@ -1,7 +1,7 @@
 # 1-or-2
 A shortcut I made for Apple devices that asks you 1 or 2
 
-https://www.icloud.com/shortcuts/9ed3add24b0043e58680edd9a63bcc39
+https://www.icloud.com/shortcuts/ee5f2bb5373a4b979162eb99b263f257
 
 Use the link above to add to your device.
 
